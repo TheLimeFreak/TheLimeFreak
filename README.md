@@ -14,18 +14,20 @@ Java
 JavaScript
 TypeScript
 Haskell
+SQL
 
 Frontend:
+React Native
 
 Backend:
+Spring Boot
 
 Frameworks & Libraries:
-Django REST
-React
 Next.js
 
 Databases:
 PostgreSQL
+mySQL
 
 
 DevOps & Tools:
