@@ -11,8 +11,7 @@
 Languages:
 Python
 Java
-JavaScript
-TypeScript
+JS/TS
 Haskell
 SQL
 
